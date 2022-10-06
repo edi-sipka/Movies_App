@@ -1,6 +1,7 @@
 @import '../../common/colors.scss';
 
-.movie-list {
+.movie-list,
+.show-list {
   margin: 20px 0px;
   h2 {
     color: $font-secondary;
