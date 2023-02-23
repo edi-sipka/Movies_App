@@ -13,6 +13,10 @@ Movies_App is React built app that is displaying movies and tv shows. You can fi
 - Jest testing
 - Following GitHub flows standards.
 
+<!-- Review-->
+# Live Version <a name="er-diagram"></a>
+![Photo of app ](./previewphoto.png)
+
 ## Getting Started
 
 **This app is about tv shows and movies**
